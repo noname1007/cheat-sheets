@@ -5,7 +5,7 @@ The [USBGuard](https://usbguard.github.io/) software framework helps to protect 
 ## Install
 
 To install USBGuard on Debian based distributions, type
-<br></br>
+
 ```bash
 sudo apt install -y usbguard
 
@@ -28,9 +28,8 @@ systemctl start usbguard
 ## Management
 
 USB device managment is simple as,
-<br></br>
-```bash
 
+```bash
 # to show all devices
 
 usbguard list-devices

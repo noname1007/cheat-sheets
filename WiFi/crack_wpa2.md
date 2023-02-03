@@ -2,7 +2,7 @@
 
 A basic way to crack WPA2 key.
 
-> :warning: low success rate.
+:warning: low success rate.
 
 ## Aircrack-ng
 

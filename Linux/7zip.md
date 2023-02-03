@@ -5,14 +5,14 @@
 ## Install
 
 To install 7zip on Debian based distributions, type
-<br></br>
+
 ```bash
 sudo apt install -y p7zip-full p7zip-rar
 ```
 
 ## Usage
 The basic usage of 7zip is simple as,
-<br></br>
+
 ```bash
 # extract files
 

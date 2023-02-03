@@ -5,7 +5,7 @@ The [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) Protocol is a cry
 ## John the Ripper
 
 [John the Ripper] is a fast password cracker. Its primary purpose is to detect weak Unix passwords. You can use it to crack encrypted RSA keys.
-<br></br>
+
 ```bash
 # format the key to johns format
 

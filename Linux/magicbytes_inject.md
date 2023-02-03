@@ -5,9 +5,8 @@
 ## Inject
 
 On Linux operating systems you can inject the file signature of one file to another file. Note, that example.jpg has to be a legit .jpg file.
-<br></br>
-```bash
 
+```bash
 head -c example.jpg > example.txt
 ```
 

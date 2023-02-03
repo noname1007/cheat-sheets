@@ -9,7 +9,7 @@ To change your MAC address every time a connection is establishing create
 >/etc/NetworkManager/conf.d/50-macchange.conf
 
 and add the following lines.
-<br></br>
+
 ```bash
 [connection-mac-randomization]
 ethernet.cloned-mac-address=random
@@ -22,7 +22,7 @@ To avoid that your hostname is send to the network you have to edit
 >/etc/NetworkManager/NetworkManager.conf
 
 and add the following lines.
-<br></br>
+
 ```bash
 [ipv4]
 dhcp-send-hostname=false

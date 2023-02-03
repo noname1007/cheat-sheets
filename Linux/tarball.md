@@ -5,14 +5,14 @@
 ## Install
 
 GNU Tar should be installed by default, but if it is not, type on Debian based Distributions
-<br></br>
+
 ```bash
 sudo apt install -y tar tar-doc
 ```
 
 ## Usage
 To create a [gzip](https://www.gzip.org/) compressed Tarball, or to extract one, type
-<br></br>
+
 ```bash
 # create tarball
 

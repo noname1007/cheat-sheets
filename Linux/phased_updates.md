@@ -9,7 +9,7 @@ To disable phased updates you have to edit
 >/etc/apt/apt.conf.d/99-Phased-Updates
 
 and add these line.
-<br></br>
+
 ```bash
 APT::Get::Always-Include-Phased-Updates True;
 ```

@@ -4,8 +4,8 @@ Locations to look for Bug bounty hunting.
 
 ## Google search
 
-Ask your standard search engine for '[ORGANIZATION] vulnerability disclosure program' e.g. 'Tesla'.
-<br></br>
+Ask your standard search engine for "[ORGANIZATION] vulnerability disclosure program" e.g. 'Tesla'.
+
 ```
 [ORGANIZATION] vulnerability disclosure program
 ```

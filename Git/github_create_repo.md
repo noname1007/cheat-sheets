@@ -3,7 +3,6 @@
 ## Create Repo
 
 To create a public or private Github repository in your commandline, type
-<br></br>
 
 ```bash
 gh repo create
@@ -14,7 +13,6 @@ gh repo create [NAME] --public --clone
 ```
 ## Commit changes
 To stage and commit your changes to your repository, type
-<br></br>
 
 ```bash
 echo 'example' >> README.md
