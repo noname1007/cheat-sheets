@@ -20,6 +20,12 @@ enum4linux [options] $IP
 
 -a             all of the above (full basic enumeration)
 ```
+## Nmap
+We can use nmap scripts to enumerate SMB.
+```bash
+nmap -p [PORT] --script=smb-enum-shares.nse,smb-enum-users.nse [IP]
+```
+
 ## Smbclient
 
 When the following conditions are met,
