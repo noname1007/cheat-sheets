@@ -45,3 +45,7 @@ smbclient //[IP]/[SHARE] [OPTIONS]
 
 smbclient //10.10.10.2/secret -U user -p 445
 ```
+To download a complete share we can use smbget.
+```bash
+smbget -R smb://[IP]/[SHARE]
+```
